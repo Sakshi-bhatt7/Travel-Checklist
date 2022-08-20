@@ -10,7 +10,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String URL = "https://api.in.kaleyra.io/v1/HXIN1740145135IN/messages";
+    private static final String URL = "https://api.in.kaleyra.io/";
+    private static final String API = "A4118f619ccb25efc50fbffb66fe92b7a";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
